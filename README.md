@@ -1,5 +1,4 @@
 # Laboratoire-
-Bien sûr, voici une description du sujet que vous pourriez traiter concernant le cours de СИАОД (Structures et Algorithmes de Données) ainsi que ses laboratoires et projets :
 
 Titre : Analyse et Implémentation d'Algorithmes de Tri et de Recherche pour la Gestion de Données Massives
 
